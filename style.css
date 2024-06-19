@@ -1,0 +1,33 @@
+* {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    background-color: #FFD038
+}
+
+div.list {
+    text-align: center;
+}
+
+#index-list {
+    display: inline;
+    font-size: 18px;
+    
+}
+
+h1 {
+    color: #222893;
+    text-align: center;
+}
+
+h2 {
+    color: #922F71;
+}
+
+.ingredients {
+    color: #901F18;
+    font-style: italic;
+}
+
+.steps {
+    color: #22630F;
+    font-style: italic;
+}
